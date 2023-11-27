@@ -27,7 +27,7 @@ nav img{
 .links{
     flex: 1;
     text-align: right;
-    
+     
 }
 .links ul li{
     list-style-type: none;
@@ -42,6 +42,7 @@ nav img{
    font-size: 20px;
 
 }
+
 
 .herotext{
 
@@ -107,7 +108,114 @@ font-size: 32px;
 font-weight: 400;
 line-height: 45px;
 letter-spacing: 0em;
-text-align: justify;
 color: #FFF;
-align-content: center;
+margin: 135px 135px 171px 64px;
+}
+
+.subsidiaries{
+    position: relative;
+    left: 40px;
+    height: 668px;
+    
+    
+
+}
+
+
+
+.heading3{
+    height:59px;
+    width: 446px;
+    top: 1767px;
+    left: 40px;
+    color: #053563;  
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 108px;
+    
+}
+
+
+.sub{
+    color: #000000;
+    font-size: 20px;
+    margin-top: 17px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 139.176%; /* 27.835px */
+}
+
+
+
+.viewmore {
+    left: 0px;
+    top: 0px;
+    width: 325px;
+    height: 80px;
+    background-color: transparent;
+    border: 1px solid #053563;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 45px ;
+}
+.viewmore a{
+    color: #053563;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    font-size: 30px;
+}
+
+
+.companies{
+width: 735px;
+height: 48px;
+display: flex;
+color: #000;
+font-size: 52px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: right;
+
+  
+}
+.companies ul li{
+list-style-type: none;
+position: relative;
+bottom: 200px;
+right: 144px;
+
+}
+
+.footer{
+    background: #053563;
+    height: 579px;
+    
+}
+
+.footertext{
+    height: 203px ;
+    width: 555px;
+    top: 2265px;
+    left: 40px;
+    color: white;
+    font-size: 32px;
+    padding-left: 40px ;
+    padding-top: 46px;
+    line-height: 68.16px;
+}
+
+.yeartext{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 239.02%; /* 47.804px */
+    padding-left: 40px ;
+    padding-top: 193px;
 }
